@@ -11,7 +11,7 @@ Proje Ödevinde
 5. Kullanıcı şifresini değiştirme
 6. Recycler da kullanıcıları listelem
 7. Kullanıcıya yapmış olduğu işlemlerde işlem bitiminde kullanıcıya mesaj verme
-##Yapamadıklarım
+## Yapamadıklarım
 1. Kullanıcılar listelenirken filitre yok
 2. konum alma ve konuma göre işlem yapılamıyor
 3. Kullanıcı eşleşmesi yok
