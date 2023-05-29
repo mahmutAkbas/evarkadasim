@@ -19,8 +19,7 @@ Proje Ödevinde
 5. İlgili aday öğrencilerin harita üzerinde konumlarına göre ikon ile gösterimi ve ek bilgilerin ikon üzerine gidildiğinde paylaşılması
 6. Eşleşme talebi yollama
 7. Talep onaylama/reddetme
-8. İletişim bilgilerinin sağlanması
-9. Whatsapp’a butonla yönlendirme
-10. E-mail uygulamasına yönlendirme
-11. Anlaşma sonrası durum değiştirme
+8. Whatsapp’a butonla yönlendirme
+9. E-mail uygulamasına yönlendirme
+10. Anlaşma sonrası durum değiştirme
 
