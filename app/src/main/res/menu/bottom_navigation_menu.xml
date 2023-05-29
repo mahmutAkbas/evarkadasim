@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/HOME"
+        android:icon="@drawable/home_menu"
+        android:title="Ana Sayfa" />
+    <item
+        android:id="@+id/MAP"
+        android:icon="@drawable/map"
+        android:title="Harita" />
+    <item
+        android:id="@+id/FRIENDLIST"
+        android:icon="@drawable/friendlist"
+        android:title="Eşleştiklerim" />
+    <item
+        android:id="@+id/SETTING"
+        android:icon="@drawable/person"
+        android:title="Hesap Bilgileri" />
+
+</menu>

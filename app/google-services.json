@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567576808014",
+    "project_id": "evarkadasim-81c7a",
+    "storage_bucket": "evarkadasim-81c7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567576808014:android:5d07e193431b649d6b911f",
+        "android_client_info": {
+          "package_name": "com.mahmutakbas.evarkadasim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567576808014-ve68ors5su3k23pu43utb81rl9tnog5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLi69qUxf1yGhW4KBT3FHtVsLKqhB2L_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567576808014-ve68ors5su3k23pu43utb81rl9tnog5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
